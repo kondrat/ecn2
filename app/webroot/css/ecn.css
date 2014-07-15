@@ -1,0 +1,19 @@
+/* 
+    Document   : ecn.css
+    Created on : Jul 14, 2014, 9:30:04 PM
+    Author     : root
+    Description:
+        Purpose of the stylesheet follows.
+*/
+.ecn-wordsDispl{
+    position:relative;
+}
+.ecn-word{
+    padding: 0 15px;
+    position:absolute;
+    
+    text-align: center;
+    width: 100%;
+    overflow: hidden;
+
+}
