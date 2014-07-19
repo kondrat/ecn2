@@ -5,13 +5,13 @@
     Description:
         Purpose of the stylesheet follows.
 */
-.ecn-wordsDispl{
+.ecn-cardsDispl{
     position:relative;
 }
 .ecn-word{
     padding: 0 15px;
     position:absolute;
-    
+    font-size: 32px;
     text-align: center;
     width: 100%;
     overflow: hidden;

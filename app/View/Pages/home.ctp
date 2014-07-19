@@ -45,15 +45,15 @@
         </div>
     </div>
 <div class="row">
-    <div class="large-4 medium-4 small-6 columns">
-        <div class="ecn-wordsDispl">
+    <div class="large-4 medium-6 small-12 columns">
+        <div class="ecn-cardsDispl">
             <div class="ecn-word">
                 <span id="ecn-wordsDispl">Hello Word</span>
             </div>
             <?php echo $this->Html->image('card-pad.png'); ?>
         </div>
     </div>
-    <div class="large-4 medium-4 small- columns">
+    <div class="large-4 medium-6 small- columns">
         <form>
         <div id="ecn-wordInput">
              <label>
@@ -65,7 +65,7 @@
             <?php //echo $this->Html->image('card-pad.png'); ?>
         </div>
     </div>
-    <div class="large-4 medium-4 small- columns">
+    <div class="large-4 medium- small- columns">
         <span>Just for test</span></div>
     <hr/>
 </div>
